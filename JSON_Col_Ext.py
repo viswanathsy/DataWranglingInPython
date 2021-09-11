@@ -3,9 +3,9 @@ import os
 
 
 #definitions
-path = 'C:/Users/yaswanths/OneDrive - ValueMomentum Inc/Documents/Python Scripts/JSON Column Name Extractor/'
-data_path = 'C:/Users/yaswanths/OneDrive - ValueMomentum Inc/Documents/Python Scripts/JSON Column Name Extractor/Data/'
-write_path = 'C:/Users/yaswanths/OneDrive - ValueMomentum Inc/Documents/Python Scripts/JSON Column Name Extractor/Output/'
+path = #{your code path}
+data_path = #{your file path}
+write_path = #{your output path}
 
 def json_parse(docContent,name,fname):
     l = []    
